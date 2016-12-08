@@ -1,0 +1,128 @@
+BODY {
+	MARGIN: 0px; 
+	padding:0px;
+	FONT-FAMILY: Verdana; 
+	FONT-SIZE: 11px; 
+	COLOR: #555555;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  border: none
+}
+#main {
+  height: 100%;
+  width: 100%;
+  }
+#header {
+  height: 100%;
+  width: 100%;
+  }    
+.textbox {
+	BORDER-RIGHT: #405500 1px groove; 
+	BORDER-TOP: #405500 1px groove; 
+	FONT-SIZE: 11px; 
+	BORDER-LEFT: #405500 1px groove; 
+	COLOR: #405500; 
+	BORDER-BOTTOM: #405500 1px groove; 
+	FONT-FAMILY: Verdana; 
+	BACKGROUND-COLOR: #99cc00
+}
+A:link {
+	COLOR: #3A4376; 
+	TEXT-DECORATION: none;
+}
+A:visited {
+	COLOR: #3A4376; 
+	TEXT-DECORATION: none;
+}
+A:hover {
+	COLOR: #FF9900; 
+	TEXT-DECORATION: underline;
+}
+A.menu:link {
+	COLOR: #505050; 
+	TEXT-DECORATION: none;
+}
+A.menu:visited {
+	COLOR: #505050; 
+	TEXT-DECORATION: none;
+}
+A.menu:hover {
+	COLOR: #505050; 
+	TEXT-DECORATION: underline;
+}
+a.lien1
+{
+	color: #505050;
+	text-decoration:none;
+}
+a.lien1:hover
+{
+	color: #505050;
+	text-decoration:underline;
+}
+IMG {
+	BORDER-LEFT-COLOR: #99cc00; 
+	BORDER-BOTTOM-COLOR: #99cc00; 
+	BORDER-TOP-COLOR: #99cc00; 
+	BORDER-RIGHT-COLOR: #99cc00;
+}
+TD.title {
+	FONT-WEIGHT: bold; 
+	COLOR: #0B29C5;
+}
+.Style1 {
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+}
+
+.class1 {
+	height: 18px;
+	width:  700px; 
+	text-align: left;
+}
+table.main {
+	border: 1px solid #505050;
+	margin: 3px
+}
+
+.in {
+	width: 150px;
+	border: 1px solid #CDCDCD;
+	padding: 3px 3px 3px 5px;
+	font-family: verdana;
+	font-size: 10px;
+	color: #FF9900;
+}
+
+#cpanel {  text-align: center;  vertical-align: middle; }
+
+#cpanel div.icon   { margin: 3px; }
+#cpanel div.icon a { 
+	display: block; float: left;
+	height: 97px !important;
+	height: 100px; 
+	width: 108px !important;
+	width: 110px; 
+	vertical-align: middle; 
+	text-decoration : none;
+	border: 1px solid #FF9900;
+	padding: 2px 5px 1px 5px;
+}
+
+#cpanel div.icon a:link    {  color : #808080;  }
+#cpanel div.icon a:hover   { 
+	color : #333; 
+	background-color: #f1e8e6;  
+	border: 1px solid #c24733;
+	padding: 3px 4px 0px 6px; 
+}
+#cpanel div.icon a:active  {  color : #808080;  }
+#cpanel div.icon a:visited {  color : #808080;  }
+
+#cpanel div.icon img { margin-top: 13px; }
+#cpanel div.icon span { display: block; padding-top: 3px;}
+
